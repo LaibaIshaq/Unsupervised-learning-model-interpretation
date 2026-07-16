@@ -87,4 +87,4 @@ Run the notebook from top to bottom. Both datasets are downloaded automatically 
 
 ## Notes
 
-This project was developed for educational and portfolio purposes. It demonstrates practical implementation of unsupervised machine learning, dimensionality reduction, cluster evaluation, visualization, and model interpretation using Python and the Scikit-learn ecosystem.
+Detailed explanations and analysis are in the accompanying report; the notebook itself is kept minimal and code-focused.
