@@ -44,7 +44,7 @@ Both datasets are downloaded automatically via **KaggleHub** within the notebook
 
 ## Structure
 
-- `Advanced_Unsupervised_Machine_Learning_Model_Interpretation.ipynb` — Main notebook containing data preprocessing, clustering, dimensionality reduction, model evaluation, visualization, and interpretation.
+- `Advanced_Unsupervised_Machine_Learning.ipynb` — Main notebook containing data preprocessing, clustering, dimensionality reduction, model evaluation, visualization, and interpretation.
 
 ---
 
